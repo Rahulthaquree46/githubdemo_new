@@ -1,0 +1,7 @@
+#write rules to ignore files or directories
+
+#rule to ignore a single file
+justsomeinfo.txt.txt
+
+#rule to ignore a single folder
+library
